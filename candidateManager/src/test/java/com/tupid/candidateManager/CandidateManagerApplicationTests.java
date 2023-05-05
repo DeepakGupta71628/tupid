@@ -1,4 +1,4 @@
-package com.tupid.CandidateManager;
+package com.tupid.candidateManager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

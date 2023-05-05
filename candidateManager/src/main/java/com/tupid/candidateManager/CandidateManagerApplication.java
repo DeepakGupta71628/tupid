@@ -1,4 +1,4 @@
-package com.tupid.CandidateManager;
+package com.tupid.candidateManager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
